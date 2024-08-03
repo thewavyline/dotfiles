@@ -1,0 +1,4 @@
+.config/pulse
+.config/gtk-3.0
+.config/dconf
+set-random-wall.pid
